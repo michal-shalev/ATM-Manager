@@ -1,0 +1,27 @@
+{
+    "1": {
+        "name": "Adam Levy",
+        "password": "123!123!",
+        "balance": 600
+    },
+    "2": {
+        "name": "Sam Fisher",
+        "password": "456ed78",
+        "balance": 6500
+    },
+    "3": {
+        "name": "Jessica Wolf",
+        "password": "0037856",
+        "balance": 10000
+    },
+    "4": {
+        "name": "Shani Peled",
+        "password": "RE57563",
+        "balance": 500
+    },
+    "5": {
+        "name": "Joe Star",
+        "password": "276g9s4",
+        "balance": 54300
+    }
+}
